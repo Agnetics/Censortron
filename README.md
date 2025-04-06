@@ -2,7 +2,7 @@
 Mighty and flexible content moderation framework
 
 > [!NOTE]
-> Status: ready, but implemented into our ready pipeline.
+> Status: code base ready, but implemented into another ready pipeline.
 >
 > TODO: extract to this repo, clean the code; prepare for non-docker user. Make more customizeable.
 
