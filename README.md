@@ -3,11 +3,12 @@ Multi-layered content moderation framework
 
 `\\add here a mighty transformer pic`
 
---
+---
 
 > [!CAUTION]
 > <details><summary>Contains offensive language ⚠️ 21+ </summary>
 >
+> 
 > Obliviously, since this is a moderation framework, be ready to face the maximum offensive language in the contents of this repo.
 >
 > </details>
