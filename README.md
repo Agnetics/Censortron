@@ -1,23 +1,29 @@
 # Censortron
-Mighty and flexible content moderation framework
+Multi-layered content moderation framework
 
 `\\add here a mighty transformer pic`
 
 --
 
-> [!NOTE]
-> Status: code base ready, but implemented into another ready pipeline.
+> [!CAUTION]
+> <details><summary>Contains offensive language ⚠️ 21+ </summary>
 >
-> TODO: extract to this repo, clean the code; prepare for non-docker user. Make more customizeable.
+> Obliviously, since this is a moderation framework, be ready to face the maximum offensive language in the contents of this repo.
+>
+> </details>
 
 Features:
-- simple and robust regex-based banword moderation
-- multiple moderation layers
-- enhanced overcensoring control
+- Multiple moderation layers
+- smart "overcensoring" control
 - Docker-ready FastAPI endpoint
+- Simple and robust regex-based banword moderation
 
 Moderation layers (customizeable):
-- regex-based
+- Regex-based
 - LLM classification: BERT, sensitive topics
 - LLM classification: BERT, overall acceptablity
 - Mistral moderation API support
+
+Languages support:
+- Russian
+- English (a bit)
