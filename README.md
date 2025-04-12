@@ -21,3 +21,7 @@ Moderation layers (customizeable):
 - LLM classification: BERT, sensitive topics
 - LLM classification: BERT, overall acceptablity
 - Mistral moderation API support
+
+
+### Additional Information  
+This repository contains partial code and may include components from py-censure, which is licensed under the GNU General Public License, Version 3. Please refer to the GNU GPL v3 for details on usage and distribution.
