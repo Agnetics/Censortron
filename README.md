@@ -17,6 +17,17 @@ Mighty and flexible content moderation framework
 >
 > TODO: extract to this repo, clean the code; prepare for non-docker user. Make more customizeable.
 
+
+## 🔥⚠️Content Warning
+**Important Notice Regarding Repository Content**  
+This framework contains explicit language examples and moderation patterns that include:
+
+- **Profanity** (both explicit and masked variations)
+- **Offensive terminology** 
+- **Sensitive lexical patterns** 
+
+---
+
 Features:
 - simple and robust regex-based banword moderation
 - multiple moderation layers
