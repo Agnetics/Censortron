@@ -1,0 +1,4 @@
+word,category,weight,label
+spam,spam,0.8,bad
+abuse,offensive,1.0,bad
+drugs,illegal,0.9,bad 

@@ -1,0 +1,4 @@
+category,weight,description
+spam,0.8,Spam content
+offensive,1.0,Offensive content
+illegal,0.9,Illegal content 
